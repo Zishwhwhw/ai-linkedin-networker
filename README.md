@@ -1,7 +1,7 @@
 # LinkedIn AI-Networker 💼
 
 <p align="center">
-  <img src="https://placehold.co/800x300/0a66c2/ffffff?text=LinkedIn+AI-Networker+💼" alt="Banner" width="100%">
+  <img src="assets/cover.jpg" alt="Banner" width="100%">
 </p>
 
 > **Your personal networking assistant. Read any post and generate a thoughtful, engaging comment instantly.**
